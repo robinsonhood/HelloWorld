@@ -6,5 +6,6 @@ public class HelloWorld2 {
       System.out.println("3333333");
       System.out.println("4444");
       System.out.println("5");
+      System.out.println("666");
     }
 }
